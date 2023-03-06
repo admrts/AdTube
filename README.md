@@ -20,5 +20,5 @@ To Start Server:
 
 ## Screenshot
 
-[](./screen1.png)
-[](./screen2.png)
+![](./screen1.png)
+![](./screen2.png)
