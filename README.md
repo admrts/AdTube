@@ -18,7 +18,7 @@ To Start Server:
 
 ## Demo
 
-[Click me!!!!!!!!!](https://admediatube.netlify.app/)
+[Click me!!!!!!!!](https://admediatube.netlify.app/)
 
 ## Screenshot
 
